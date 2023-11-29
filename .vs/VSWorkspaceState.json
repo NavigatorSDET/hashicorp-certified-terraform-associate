@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\02-Terraform-Basics",
+    "\\02-Terraform-Basics\\02-02-Terraform-Command-Basics",
+    "\\02-Terraform-Basics\\02-02-Terraform-Command-Basics\\terraform-manifests",
+    "\\02-Terraform-Basics\\02-03-Terraform-Language-Syntax"
+  ],
+  "SelectedNode": "\\git-deploy.sh",
+  "PreviewInSolutionExplorer": false
+}
